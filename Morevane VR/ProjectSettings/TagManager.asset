@@ -6,6 +6,9 @@ TagManager:
   tags:
   - HandTag
   - PickUpAble
+  - Tree
+  - Stone
+  - Body
   layers:
   - Default
   - TransparentFX
