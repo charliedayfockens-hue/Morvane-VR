@@ -22,8 +22,8 @@ TagManager:
   - Right Hand
   - Left Hand
   - NonWalkable
-  - 
-  - 
+  - LCK Tablet
+  - NonCollidable
   - 
   - 
   - 
