@@ -4094,7 +4094,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5728798304482859531}
   - component: {fileID: 2811887076444410699}
-  - component: {fileID: 6785173084631697215}
   m_Layer: 0
   m_Name: backpack
   m_TagString: Untagged
@@ -4221,27 +4220,6 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   Items: []
---- !u!65 &6785173084631697215
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4957081206735749297}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.9999972, y: 2.6550312, z: 3.0692315}
-  m_Center: {x: -7.2997935e-10, y: 0.8275162, z: 0.021405393}
 --- !u!1 &5055796435514202514
 GameObject:
   m_ObjectHideFlags: 0
