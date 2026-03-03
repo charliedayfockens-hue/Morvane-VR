@@ -9,6 +9,8 @@ TagManager:
   - Tree
   - Stone
   - Body
+  - Wood
+  - Concrete
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - UI
   - Right Hand
   - Left Hand
-  - 
+  - NonWalkable
   - 
   - 
   - 
