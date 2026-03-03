@@ -12,6 +12,7 @@ TagManager:
   - Wood
   - Concrete
   - Metal
+  - Walkable
   layers:
   - Default
   - TransparentFX

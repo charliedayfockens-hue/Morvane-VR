@@ -16,10 +16,10 @@ MonoBehaviour:
   DismissedUpdateVersion: 
   LastShownOverviewVersion: 
   DismissedNotificationBarVersion: 
-  TrackingId: a2e81359-40ba-4c5f-bd62-aa3270dc608a
-  GameName: Morvane VR
-  RecordingFilenamePrefix: MorvaneVRClip
-  RecordingAlbumName: Morvane VR
+  TrackingId: 
+  GameName: MyGame
+  RecordingFilenamePrefix: MyGamePrefix
+  RecordingAlbumName: MyGameAlbum
   RecordingDateSuffixFormat: yyyy-MM-dd_HH-mm-ss
   MicPermissionType: 0
   AddMicPermissionsToAndroidManifest: 1
