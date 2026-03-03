@@ -11,6 +11,7 @@ TagManager:
   - Body
   - Wood
   - Concrete
+  - Metal
   layers:
   - Default
   - TransparentFX
