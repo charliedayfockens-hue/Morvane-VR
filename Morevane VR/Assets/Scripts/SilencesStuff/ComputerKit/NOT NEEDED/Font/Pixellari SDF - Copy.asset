@@ -60,9 +60,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Pixellari SDF - Copy
   m_EditorClassIdentifier: 
-  hashCode: 514899119
+  hashCode: 1534948871
   material: {fileID: 3939960573859813041}
-  materialHashCode: 1380875311
+  materialHashCode: 233000519
   m_Version: 1.1.0
   m_SourceFontFileGUID: 45f4a0fcf53927b46820e8b4fe005fe5
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 45f4a0fcf53927b46820e8b4fe005fe5, type: 3}
@@ -2672,10 +2672,10 @@ Material:
     - _OutlineSoftness: 0
     - _OutlineUVSpeedX: 0
     - _OutlineUVSpeedY: 0
-    - _OutlineWidth: 0
+    - _OutlineWidth: 1
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioA: 0.7017544
     - _ScaleRatioB: 0.6770833
     - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
