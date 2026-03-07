@@ -6878,7 +6878,7 @@ MonoBehaviour:
   chainColor: {r: 0, g: 0, b: 1, a: 1}
   targetColor: {r: 1, g: 0, b: 0, a: 1}
   gizmoSize: 0.05
-  tL: 0
+  tL: 0.74505675
   useNewtonStyle: 1
 --- !u!137 &4732013017073661610 stripped
 SkinnedMeshRenderer:
@@ -6970,7 +6970,7 @@ MonoBehaviour:
   chainColor: {r: 0, g: 0, b: 1, a: 1}
   targetColor: {r: 1, g: 0, b: 0, a: 1}
   gizmoSize: 0.05
-  tL: 0
+  tL: 0.74505675
   useNewtonStyle: 1
 --- !u!1001 &6227214893151104671
 PrefabInstance:
