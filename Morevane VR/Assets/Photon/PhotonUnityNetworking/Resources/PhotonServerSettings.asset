@@ -45,6 +45,9 @@ MonoBehaviour:
   - RPCRefreshPlayerValues
   - PickUpItem
   - SpawnItem
+  - RPC_PlaySound
+  - RPC_RequestKillSequence
+  - RPC_StartKill
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
