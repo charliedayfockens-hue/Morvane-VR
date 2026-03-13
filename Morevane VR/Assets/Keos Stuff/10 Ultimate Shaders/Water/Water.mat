@@ -19,7 +19,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _NormalMap
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -33,19 +33,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FoamAmount: 1
-    - _FoamSpeed: 0.5
-    - _FresnelPower: 5
-    - _Glossiness: 0.9
+    - _FoamAmount: 0
+    - _FoamSpeed: 0
+    - _FresnelPower: 10
+    - _Glossiness: 0
     - _IntersectFoamDepth: 0.5
     - _IntersectFoamWidth: 0.1
-    - _NormalStrength: 0.81
-    - _WaveHeight: 0.038
-    - _WaveScale: 0.46
-    - _WaveSpeed: 0.1
+    - _NormalStrength: 2
+    - _WaveHeight: 1
+    - _WaveScale: 4.2
+    - _WaveSpeed: 0
     m_Colors:
-    - _Color: {r: 0.19999996, g: 0.5, b: 0.8, a: 0.8}
-    - _EmissionColor: {r: 0, g: 0.2, b: 0.3, a: 1}
+    - _Color: {r: 0.09372979, g: 0.25882354, b: 0.022516914, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _IntersectFoamColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
