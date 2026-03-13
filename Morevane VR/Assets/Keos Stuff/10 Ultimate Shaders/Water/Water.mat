@@ -40,9 +40,9 @@ Material:
     - _IntersectFoamDepth: 0.5
     - _IntersectFoamWidth: 0.1
     - _NormalStrength: 2
-    - _WaveHeight: 1
-    - _WaveScale: 4.2
-    - _WaveSpeed: 0
+    - _WaveHeight: 0
+    - _WaveScale: 3.33
+    - _WaveSpeed: 0.08
     m_Colors:
     - _Color: {r: 0.09372979, g: 0.25882354, b: 0.022516914, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
