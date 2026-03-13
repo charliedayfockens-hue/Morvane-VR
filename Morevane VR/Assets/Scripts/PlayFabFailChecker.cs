@@ -13,7 +13,7 @@ public class PlayFabFailChecker : MonoBehaviour
 
     IEnumerator CheckForFailure()
     {
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(1f);
 
         if (!hasChecked)
         {
