@@ -302,7 +302,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: PlayerName
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6fc31cf09a0f92e46824e4f0fef3e55f, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 3939960573859813041, guid: 6fc31cf09a0f92e46824e4f0fef3e55f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
