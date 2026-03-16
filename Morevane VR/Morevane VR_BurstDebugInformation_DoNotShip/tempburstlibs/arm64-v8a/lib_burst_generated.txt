@@ -1,7 +1,7 @@
-Library: C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+Library: C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-18
---target=ARMV7A_NEON32
+--target=ARMV8A_AARCH64
 --global-safety-checks-setting=Off
 --meta-data-generation=False
 --dump=Function
@@ -11,7 +11,7 @@ Library: C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\Bu
 --temp-folder=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Library\Burst
---output=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--output=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=UnityEngine.XR.Interaction.Toolkit.Utilities.BurstMathUtility, Unity.XR.Interaction.Toolkit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ProjectOnPlane(Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)--1819bc9925667b008fd6c3e6019ccf71
@@ -78,7 +78,7 @@ Library: C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\Bu
 --method=UnityEngine.XR.Interaction.Toolkit.Utilities.BurstMathUtility, Unity.XR.Interaction.Toolkit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Orthogonal(Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float3&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)--129828f5f7843aff998314f0456a7420
 --platform=Android
 --backend=burst-llvm-18
---target=ARMV7A_NEON32
+--target=ARMV8A_AARCH64
 --global-safety-checks-setting=Off
 --disable-safety-checks
 --meta-data-generation=False
@@ -90,7 +90,7 @@ Library: C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\Bu
 --temp-folder=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Library\Burst
---output=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--output=C:\Users\guss4\OneDrive\Documents\GitHub\Morvane-VR\Morevane VR\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
