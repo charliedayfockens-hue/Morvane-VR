@@ -19,11 +19,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Body
   - Water
   - UI
-  - Right Hand
-  - Left Hand
+  - Right
+  - Left
   - NonWalkable
   - LCK Tablet
   - NonCollidable
