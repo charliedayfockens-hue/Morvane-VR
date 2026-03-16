@@ -22,13 +22,13 @@ TagManager:
   - Body
   - Water
   - UI
-  - Right
-  - Left
+  - Right Hand
+  - Left Hand
   - NonWalkable
   - LCK Tablet
   - NonCollidable
   - Trigger
-  - 
+  - Hands
   - 
   - 
   - 

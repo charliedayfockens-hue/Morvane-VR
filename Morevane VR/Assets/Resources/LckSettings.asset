@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: LckSettings
   m_EditorClassIdentifier: 
   ShowSetupWizard: 1
-  DismissedUpdateVersion: 
+  DismissedUpdateVersion: 1.4.5
   LastShownOverviewVersion: 1.4.4
-  DismissedNotificationBarVersion: 
+  DismissedNotificationBarVersion: 1.4.5
   TrackingId: a2e81359-40ba-4c5f-bd62-aa3270dc608a
   GameName: Morvane VR
   RecordingFilenamePrefix: MorvanVRPrefix
