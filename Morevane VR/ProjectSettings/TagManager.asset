@@ -22,8 +22,8 @@ TagManager:
   - Body
   - Water
   - UI
-  - Right
-  - Left
+  - Hands
+  - 
   - NonWalkable
   - LCK Tablet
   - NonCollidable
