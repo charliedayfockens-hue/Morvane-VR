@@ -1569,7 +1569,7 @@ MonoBehaviour:
   chainColor: {r: 0, g: 0, b: 1, a: 1}
   targetColor: {r: 1, g: 0, b: 0, a: 1}
   gizmoSize: 0.05
-  tL: 0
+  tL: 0.7605519
   useNewtonStyle: 1
 --- !u!4 &1232450650886979326 stripped
 Transform:
@@ -1636,7 +1636,7 @@ MonoBehaviour:
   chainColor: {r: 0, g: 0, b: 1, a: 1}
   targetColor: {r: 1, g: 0, b: 0, a: 1}
   gizmoSize: 0.05
-  tL: 0
+  tL: 0.7605386
   useNewtonStyle: 1
 --- !u!4 &6200559720149729826 stripped
 Transform:
